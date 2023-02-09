@@ -21,7 +21,6 @@ i.fa{
 }
 .girl{
 	border: 1px solid lightgray;
-	display: inline-block;
 }
 h2{
 	word-spacing: normal;
@@ -62,8 +61,8 @@ label{
 
 }
 /*.div1 i */#notification{
-	position: absolute;
+	position: fixed;
 	top: 34px;
-	right: 336px;
+	left: 450px;
 
 }
