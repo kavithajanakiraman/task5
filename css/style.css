@@ -1,0 +1,69 @@
+body{
+	/*border: 1px solid dimgray;*/
+	width: 520px;
+	margin: 20px 20px 20px 20px;
+}
+.man{
+	border-radius: 50%;
+	vertical-align: middle;
+	/*border: 1px solid dimgray;*/
+}
+i.fa{
+	color: orange;
+	vertical-align: middle;
+}
+.span{
+	margin-left: 280px;
+	vertical-align: middle;
+	padding-right: 5px;
+	color: dimgray;
+	font-size: 20px;
+}
+.girl{
+	border: 1px solid lightgray;
+	display: inline-block;
+}
+h2{
+	word-spacing: normal;
+}
+.span1{
+	vertical-align: middle;
+	margin-left: 10px;
+}
+.div2{
+	margin-top: 25px;
+	vertical-align: middle;
+}
+label{
+	background-color: darkorange;
+	color: white;
+	font-size: 18px;
+	padding: 5px 10px 5px 10px;
+	font-family: initial;
+
+	text-transform: capitalize;
+}
+#time.fa{
+	color: white;
+	padding-right: 5px;
+
+
+}
+#notification.fa{
+	color: darkgray;
+	font-size: 40px;
+	background-color:white;
+	background-color: transparent;
+}
+/*.div1*/ label{
+	position: absolute;
+	top: 34px;
+	left: 20px;
+
+}
+/*.div1 i */#notification{
+	position: absolute;
+	top: 34px;
+	right: 336px;
+
+}
